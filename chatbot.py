@@ -44,3 +44,4 @@ while True:
         print("Chatbot: Thanks! I’ll remember that.")
         with open(file_name, "w") as file:
             json.dump(memory, file)
+#minor edit to make Git detect file
